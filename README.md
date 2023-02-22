@@ -15,11 +15,11 @@
 
 <br />
 
-Hi, i'm [Swarup](https://swarup-rj.github.io).
-I am working as a Senior Research Scientist at Speech Team, Reliance Jio AICoE.
-I am interested in the research work related to NLP and Speech Processing. Ex: Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, etc.
-I have completed my M.Tech. and Ph.D. (Broad Area - Machine Learning) from the Department of CSE, IIT Guwahati.
-I have presented my research in ICMLA19 (Florida, USA), ESANN20 (Bruges, Belgium), MLSA20 (Ghent, Belgium), CMSAC20 (CMU, USA), OSUSAAC20 (Columbus, USA), IJCNN 2022.
+- Hi, i'm [Swarup](https://swarup-rj.github.io).
+- I am working as a Senior Research Scientist at Speech Team, Reliance Jio AICoE.
+- Current Research: Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, etc.
+- I have completed my M.Tech. and Ph.D. (Broad Area - Machine Learning) from the Department of CSE, IIT Guwahati.
+- I have presented my research in ICMLA19 (Florida, USA), ESANN20 (Bruges, Belgium), MLSA20 (Ghent, Belgium), CMSAC20 (CMU, USA), OSUSAAC20 (Columbus, USA), IJCNN 2022.
 
   <img align="right" alt="GIF" src="https://github.com/swarupbehera/swarupbehera/blob/eadc67707526548378e679ec2a3f64684a37fc10/code.gif" width="500" height="320" />
   
