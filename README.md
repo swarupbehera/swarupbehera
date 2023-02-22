@@ -16,11 +16,17 @@
 
   <img align="right" alt="GIF" src="https://github.com/swarupbehera/swarupbehera/blob/eadc67707526548378e679ec2a3f64684a37fc10/code.gif" width="500" height="320" />
  
-Welcome to my page! </br> I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. 
+Welcome to my page!
 
-I have obtained my M.Tech. and Ph.D. from the Department of CSE, IIT Guwahati. 
+I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. 
 
-My research interests lie in the area of Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, Adversarial Attacks on Deep Models etc.
+I have obtained my M.Tech. and Ph.D. (Machine Learning) from the Department of CSE, IIT Guwahati. 
+
+My research interests include: 
+- Audio/Music Retrieval
+- Audio/Music Captioning
+- Audio Question Answering
+- Adversarial Attacks on Deep Models etc.
 
 <h3>Things I code with</h3>
 <p>
