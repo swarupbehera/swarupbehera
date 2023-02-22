@@ -1,6 +1,4 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
-
-<br />
  
 <!-- <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -15,11 +13,9 @@
   <img align="left" alt="Swarup's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
-
-<p>Welcome to my page! </br> I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. 
-
-My research interests lie in the area of Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, Adversarial Attack etc.
+<p>
+ Welcome to my page! </br> I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. I have obtained my M.Tech. and Ph.D. from the Department of CSE, IIT Guwahati. My research interests lie in the area of Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, Adversarial Attacks on Deep Models etc.
+ </p>
 
   <img align="right" alt="GIF" src="https://github.com/swarupbehera/swarupbehera/blob/eadc67707526548378e679ec2a3f64684a37fc10/code.gif" width="500" height="320" />
 
