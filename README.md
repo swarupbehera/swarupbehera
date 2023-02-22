@@ -16,7 +16,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/swarupbehera/swarupbehera/blob/eadc67707526548378e679ec2a3f64684a37fc10/code.gif" width="500" height="320" />
  
-I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. 
+Welcome to my page! </br> I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. 
 
 I have obtained my M.Tech. and Ph.D. from the Department of CSE, IIT Guwahati. 
 
