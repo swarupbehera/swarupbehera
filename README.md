@@ -18,7 +18,9 @@
  
 Welcome to my page!
 
-I'm [Swarup](https://swarup-rj.github.io), Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. I have obtained my M.Tech. and Ph.D. (Machine Learning) from the Department of CSE, IIT Guwahati. My research interests include: 
+I'm [Swarup Ranjan Behera](https://swarup-rj.github.io).
+
+I am working as a Senior Research Scientist at Speech Team, <b>Reliance Jio AICoE</b>. I have obtained my M.Tech. and Ph.D. (Machine Learning) from the Department of CSE, IIT Guwahati. My research interests include: 
 - Audio/Music Retrieval
 - Audio/Music Captioning
 - Audio Question Answering
