@@ -15,6 +15,9 @@
 
 <br />
 
+<p>Welcome to my page! </br> I'm [Swarup](https://swarup-rj.github.io), _Senior Research Scientist_ at Speech Team, **Reliance Jio AICoE**.
+Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+
 - Hi, i'm [Swarup](https://swarup-rj.github.io).
 - I am working as a Senior Research Scientist at Speech Team, Reliance Jio AICoE.
 - Current Research: Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, etc.
