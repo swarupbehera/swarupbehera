@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-### hey there 
+ 
 <!-- <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -16,10 +15,11 @@
 
 <br />
 
-hi, i'm [Swarup](https://swarup-rj.github.io), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+Hi, i'm [Swarup](https://swarup-rj.github.io).
+I am working as a Senior Research Scientist at Speech Team, Reliance Jio AICoE.
+I am interested in the research work related to NLP and Speech Processing. Ex: Audio/Music Retrieval, Audio/Music Captioning, Audio Question Answering, etc.
+I have completed my M.Tech. and Ph.D. (Broad Area - Machine Learning) from the Department of CSE, IIT Guwahati.
+I have presented my research in ICMLA19 (Florida, USA), ESANN20 (Bruges, Belgium), MLSA20 (Ghent, Belgium), CMSAC20 (CMU, USA), OSUSAAC20 (Columbus, USA), IJCNN 2022.
 
   <img align="right" alt="GIF" src="https://github.com/swarupbehera/swarupbehera/blob/eadc67707526548378e679ec2a3f64684a37fc10/code.gif" width="500" height="320" />
   
