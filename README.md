@@ -20,7 +20,7 @@
  
 Welcome to my page!
 
-I'm [Swarup Ranjan Behera](https://swarup-rj.github.io).
+I'm [Swarup](https://swarup-rj.github.io).
 
 🔬✨ Passionate Senior Research Scientist specializing in diverse projects involving Cricket (IPL/Mumbai Indians), Call-center, and Bio-medical (Clinical) speech and text data at Reliance Jio AICoE. Experienced in cutting-edge research areas including Automated Audio Captioning, Language Based Audio Retrieval, Audio Question Answering, Adversarial Attacks on Deep Models, and Legal NLP etc.
 
