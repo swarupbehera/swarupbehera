@@ -31,6 +31,8 @@ I'm [Swarup](https://swarup-rj.github.io).
 ✨ Additionally, completed an M.Tech degree in CSE from IIT Guwahati, excelling in a fascinating convex optimization problem - 'spectral clustering using convex and constrained settings'.
 
 🌟 Recent News & Activities:
+- [2024-12-20] Accepted paper at ICASSP 2025.
+- [2024-05-17] Accepted two papers at INTERSPEECH 2024.
 - [2023-05-17] Accepted paper at INTERSPEECH 2023.
 - [2022-04-26] Proudly contributed four papers accepted at IJCNN 2022.
 - [2021-09-17] Joined as a Senior Research Scientist at Reliance Jio AICoE.
