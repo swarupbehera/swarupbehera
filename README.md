@@ -22,11 +22,13 @@ Welcome to my page!
 
 I'm [Swarup](https://swarup-rj.github.io).
 
-🔬✨ Passionate Senior Research Scientist specializing in diverse projects involving Cricket (IPL/Mumbai Indians), Call-center, and Bio-medical (Clinical) speech and text data at Reliance Jio AICoE. Experienced in cutting-edge research areas including Automated Audio Captioning, Language Based Audio Retrieval, Audio Question Answering, Adversarial Attacks on Deep Models, and Legal NLP etc.
+💡 As a Senior Data Scientist and Researcher, I specialize in Natural Language Processing (NLP), Audio, and Computer Vision, with a strong focus on foundation models and efficient architectures. My work spans multiple industries, including sports, telecommunications, healthcare, legal, and oil & gas, where I leverage Large Language Models (LLMs) and Audio/Vision Foundation Models to drive cutting-edge advancements.
 
-🎓 PhD holder from the esteemed Department of CSE, IIT Guwahati, where I pioneered the mining of strengths and weaknesses of cricket players using live ball-by-ball Text Commentary. Proud presenter at renowned conferences such as ICMLA19 (Florida, USA), ESANN20 (Bruges, Belgium), MLSA20 (Ghent, Belgium), CMSAC20 (CMU, USA), and IJCNN 2022.
+🔬 My research is centered on fundamental challenges in audio intelligence, including (i) Speech and Audio Processing, (ii) Audio Deepfake Detection, (iii) Behavioral Signal Processing, and (iv) Anti-Spoofing. Through a combination of novel architectures, representation learning, and robustness-driven methodologies, I aim to push the boundaries of audio and multimodal AI.
 
-💡 Additionally, completed an M.Tech degree in CSE from IIT Guwahati, excelling in a fascinating convex optimization problem - 'spectral clustering using convex and constrained settings'.
+🎓 Recognized with the Best Research Award at OSUSAAC 2020, my Ph.D. work involved analyzing cricket player performance through real-time ball-by-ball text commentary, combining cutting-edge AI with sports analytics. I am well-versed in tools like Python, R, MATLAB, TensorFlow, and PyTorch, which I use to develop scalable solutions and publish research in top venues such as ICMLA, ESANN, ECML-PKDD, CMSAC, IJCNN, INTERSPEECH, and ICASSP.
+
+✨ Additionally, completed an M.Tech degree in CSE from IIT Guwahati, excelling in a fascinating convex optimization problem - 'spectral clustering using convex and constrained settings'.
 
 🌟 Recent News & Activities:
 - [2023-05-17] Accepted paper at INTERSPEECH 2023.
