@@ -49,3 +49,5 @@ I'm [Swarup](https://swarup-rj.github.io).
 - [2019-09-12] One paper accepted at ICMLA 2019, Boca Raton, Florida, USA.
 
 💪 Committed to advancing my research in these domains and making meaningful contributions to the scientific community. Let's connect and collaborate!
+
+[Courses Taken](https://docs.google.com/spreadsheets/d/1WmSOsk2sekjooDfWfCsbxnCBYaI4FS7DafxIaHO6NPk/edit?usp=drivesdk)
